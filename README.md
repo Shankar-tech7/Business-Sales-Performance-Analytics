@@ -44,7 +44,7 @@ This project was completed as part of **Data Science & Analytics – Task 1** by
 ---
 
 ## 🔗 Live Dashboard
-👉 Paste your Tableau Public dashboard link here
+👉 https://public.tableau.com/app/profile/poorna.sankar.kandukuri/viz/BusinessSalesPerformanceDashboard_17678095277290/Dashboard1?publish=yes&showOnboarding=true
 
 ---
 
